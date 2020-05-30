@@ -1,3 +1,3 @@
-# yashokicom
+# nothing to see here
 
-Code for yashoki.com
+Just some code for yashoki.com
